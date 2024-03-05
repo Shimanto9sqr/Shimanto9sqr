@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mazharul-islam-shimanto-ab4908239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazharul-islam-shimanto-ab4908239/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shimantosqr9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shimantosqr9/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/_traveler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/_traveler" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shimanto_o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shimanto_o/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mazharul-islam-shimanto-ab4908239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mazharul-islam-shimanto-ab4908239/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shimantosqr9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shimantosqr9/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/_traveler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/_traveler" height="30" width="40" /></a>
+<a href="https://leetcode.com/shimanto_o/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shimanto_o/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
