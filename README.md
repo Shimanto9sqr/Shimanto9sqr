@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🌍, I'm Shimanto</h1>
-<h3 align="center">I'm a passionate app developer & cyclist🚲 who seeks to enlighten with diversity.</h3>
+<h3 align="center">Who seeks to enlighten with diversity.</h3>
 
 - 🐱‍👤 I’m currently working on [a university project #Ruet Diary](https://github.com/Shimanto9sqr/CSE-3200)
 
