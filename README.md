@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1543722530-d2c320796c9c?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Cosmic Header" width="100%"/>
-</p>
-
-<h1 align="center">Hello 🪐, I'm Shimanto</h1>
+<h1 align="center">Extraterrestrial/h1>
 <h3 align="center">A traveler of the digital cosmos.</h3>
 
 - I’m currently exploring the galaxies of **Flutter, Dart, OOP, DSA, C++**
