@@ -1,4 +1,4 @@
-<h1 align="center">Extraterrestrial/h1>
+<h1 align="center">Extraterrestrial</h1>
 <h3 align="center">A traveler of the digital cosmos.</h3>
 
 - I’m currently exploring the galaxies of **Flutter, Dart, OOP, DSA, C++**
