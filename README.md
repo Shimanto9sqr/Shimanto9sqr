@@ -1,5 +1,5 @@
 <h1 align="center">Extraterrestrial</h1>
-<h3 align="center">A traveler of the digital cosmos.</h3>
+<h3 align="center">A traveler of the cosmos.</h3>
 
 - I’m currently exploring **Flutter, Dart, OOP, DSA, C++**
 - Contact: **shimantosqr9@gmail.com**
