@@ -1,8 +1,8 @@
-<h1 align="center">Extraterrestrial</h1>
-<h3 align="center">A traveler of the cosmos.</h3>
+<h1 align="center">/*Extraterrestrial*/</h1>
+<h3 align="center">///A traveler of the cosmos.</h3>
 
-- I’m currently exploring **Flutter, Dart, OOP, DSA, C++**
-- Contact: **shimantosqr9@gmail.com**
+$ I’m currently exploring **Flutter, Dart, OOP, DSA, C++**
+>> Contact: **shimantosqr9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
