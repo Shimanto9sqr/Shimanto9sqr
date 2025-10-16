@@ -1,7 +1,7 @@
 <h1 align="center">/*Extraterrestrial*/</h1>
 
->> I’m currently exploring **Linux, shell scripting, DevOps, Automation, Computer Network 
->> Worked with: Kotlin, Flutter, OOP, DSA, C++**
+> I’m currently exploring >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA
+> Android Development
 >> Contact: **shimantosqr9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
