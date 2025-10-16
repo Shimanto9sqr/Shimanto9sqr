@@ -1,6 +1,6 @@
 <h1 align="center">/*Extraterrestrial*/</h1>
 
-<h1>$I’m currently exploring >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA</h1>
+<h1>$I’m currently voyaging through >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA</h1>
 <h1> Android Development </h1>
 >>contact: <a href="mailto: shimantosqr9@gmail.com">shimantosqr9@gmail.com</a>
 
