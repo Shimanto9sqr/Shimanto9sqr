@@ -2,6 +2,7 @@
 
 <h1>$I’m currently exploring >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA</h1>
 <h1> Android Development </h1>
+<a href="mailto: shimantosqr9@gmail.com">shimantosqr9@gmail.com</a>
 >> Contact: <a mailto: shimantosqr9@gmail.com> shimantosqr9@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
