@@ -3,7 +3,8 @@
 <h1>$I’m currently voyaging through >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA</h1>
 <h1> Android Development </h1>
 >>contact: <a href="mailto: shimantosqr9@gmail.com">shimantosqr9@gmail.com</a>
->>portfolio: https://shimanto9sqr.github.io/portfolio/
+#portfolio: 
+https://shimanto9sqr.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
