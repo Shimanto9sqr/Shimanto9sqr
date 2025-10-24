@@ -1,7 +1,7 @@
 <h1 align="center">/*Extraterrestrial*/</h1>
 
 <h1>$I’m currently voyaging through >>Linux, shell scripting, DevOps, Automation, Computer Network, DSA</h1>
-<h1> Android Development </h1>
+<h1> Android Development(Kotlin, Flutter) </h1>
 >>contact: <a href="mailto: shimantosqr9@gmail.com">shimantosqr9@gmail.com</a>
 Visit my porfolio https://shimanto9sqr.github.io/portfolio/
 
