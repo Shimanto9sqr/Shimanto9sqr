@@ -1,4 +1,4 @@
-<h1 align="center">/*Salam! Extraterrestrials*/</h1>
+<h1 align="center">**Salam! Extraterrestrials**</h1>
 
 <h1>$I’m currently voyaging through >>DSA, OOP, Problem solving, Backend, Computer Network, Linux, shell scripting, DevOps, Automation</h1>
 <h1>Experience: Android Development(Kotlin, Flutter) </h1>
