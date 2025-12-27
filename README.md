@@ -1,4 +1,4 @@
-<h1 align="center">Salam, wanderers!</h1>
+<h1 align="center">Peace be upon you, wanderers!</h1>
 
 <h1>$I’m currently voyaging through >>DSA, OOP, Problem solving, Linux, shell scripting</h1>
 <h1>Experience: Android Development(Flutter, Kotlin) </h1>
