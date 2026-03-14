@@ -1,4 +1,4 @@
-<h1 align="center">Peace be upon you, wanderers!</h1>
+<h1 align="center">Peace be upon you!</h1>
 
 <h1>#I’m currently voyaging through >>System Operations, Linux, Shell Scripting, Computer Network, Problem solving</h1>
 >>contact: <a href="mailto: shimantosqr9@gmail.com">shimantosqr9@gmail.com</a>
